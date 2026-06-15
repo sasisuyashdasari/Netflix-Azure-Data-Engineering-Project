@@ -1,0 +1,15 @@
+{
+	"name": "adf-netflix-de-proj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e347bce-2455-47a4-b4ef-fe8e9dcf4a68",
+		"tenantId": "dbcf152e-4e96-44a1-93b4-b47d2e4e4257"
+	}
+}
