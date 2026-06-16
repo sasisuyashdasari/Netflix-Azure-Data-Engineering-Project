@@ -1,6 +1,10 @@
 # Netflix-Azure-Data-Engineering-Project
 
-
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EA4335?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge)
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
 ---
 
 # Overview
