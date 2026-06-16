@@ -1,6 +1,5 @@
 # Netflix-Azure-Data-Engineering-Project
 
-\
 
 ---
 
