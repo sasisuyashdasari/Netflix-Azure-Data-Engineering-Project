@@ -364,7 +364,7 @@ Features:
 ---
 
 # Azure Data Factory
-![ADF Pipeline](screenshots/adf_pipeline.png)
+<!-- ![ADF Pipeline](screenshots/adf_pipeline.png) -->
 
 ADF is used as the ingestion and orchestration layer.
 
@@ -643,7 +643,7 @@ Databricks Workflows orchestrate notebooks dynamically.
 ## Dynamic Workflow
 
 Workflow:
-![Databricks Workflow](screenshots/silver_workflow.png)
+<!-- ![Databricks Workflow](screenshots/silver_workflow.png) -->
 
 
 ```text
@@ -667,7 +667,7 @@ and consumed dynamically by downstream notebooks.
 ---
 
 ## Conditional Workflow
-![Conditional Workflow](screenshots/if_else_workflow.png)
+<!-- ![Conditional Workflow](screenshots/if_else_workflow.png) -->
 Workflow:
 
 ```text
@@ -710,7 +710,7 @@ This demonstrates:
 
 # Delta Live Tables (DLT)
 
-![DLT Pipeline](screenshots/dlt_pipeline.png)
+<!-- ![DLT Pipeline](screenshots/dlt_pipeline.png) -->
 
 Notebook:
 
